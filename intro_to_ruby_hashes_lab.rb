@@ -59,7 +59,8 @@ base_hash = {
       :three_pieces_owned=>100, 
       :four_pieces_owned=>200},
     :names=>{
-      :reading_railroad=>{
+      :reading_railroad=>
+      {
         "mortgage_value"=>"$100"
       }, 
       :pennsylvania_railroad=>{
